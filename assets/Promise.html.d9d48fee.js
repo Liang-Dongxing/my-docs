@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ccd8f070","path":"/project/web/Promise.html","title":"Promise","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"filePathRelative":"project/web/Promise.md","git":{"createdTime":1657784902000,"updatedTime":1657784902000,"contributors":[{"name":"Liang Yong","email":"LiangDongXing.cn@outlook.com","commits":1}]}}');export{e as data};

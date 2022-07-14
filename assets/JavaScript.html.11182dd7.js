@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1cf9c7fc","path":"/project/web/JavaScript.html","title":"JavaScript","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"filePathRelative":"project/web/JavaScript.md","git":{"createdTime":1657784902000,"updatedTime":1657784902000,"contributors":[{"name":"Liang Yong","email":"LiangDongXing.cn@outlook.com","commits":1}]}}');export{t as data};

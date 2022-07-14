@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0517dee0","path":"/project/alibaba/Canal.html","title":"Alibaba Canal","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"filePathRelative":"project/alibaba/Canal.md","git":{"createdTime":1657706543000,"updatedTime":1657706543000,"contributors":[{"name":"Liang Yong","email":"LiangDongXing.cn@outlook.com","commits":1}]}}');export{a as data};
